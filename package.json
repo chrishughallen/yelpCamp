@@ -1,0 +1,19 @@
+{
+  "name": "yelp-camp",
+  "version": "1.0.0",
+  "description": "Campground reviews and information",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrishughallen/yelpCamp.git"
+  },
+  "author": "Chris Allen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrishughallen/yelpCamp/issues"
+  },
+  "homepage": "https://github.com/chrishughallen/yelpCamp#readme"
+}
